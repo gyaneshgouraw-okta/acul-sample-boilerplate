@@ -1,0 +1,23 @@
+{
+  "name": "mybundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ul-javascript": "file:/Users/gyanesh.gouraw/Documents/workspace/auth0-SDKs/universal-login/packages/ul-javascript"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.0",
+    "mini-css-extract-plugin": "^2.9.1",
+    "path": "^0.12.7",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
